@@ -42,3 +42,33 @@ public class CalcMain {
 		System.out.println("---");
 	}
 }
+/*
+---
+Kalkulaator
+---
+Võimalikud valikud: liida, lahuta, korruta, jaga
+Sisestage valik: jaga
+Mitut arvu tehe sisaldab: 5
+Sisestage arv: 5
+Sisestage arv: 7
+Sisestage arv: 9
+Sisestage arv: 4
+Sisestage arv: 6
+---
+Jagamise vastus: 0.0033068783068783067
+---
+
+---
+Kalkulaator
+---
+Võimalikud valikud: liida, lahuta, korruta, jaga
+Sisestage valik: lahuta
+Mitut arvu tehe sisaldab: 4
+Sisestage arv: 3
+Sisestage arv: 7
+Sisestage arv: 8
+Sisestage arv: 6
+---
+Lahutamise vastus: -18
+---
+*/
