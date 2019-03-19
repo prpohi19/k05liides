@@ -1,5 +1,3 @@
 # k05liides
 
-Omaloodud liides või liideste komplekt.
-Realiseerivad klassid
-Näitprogramm
+Programm loob mängija ja vastase. Mängija eesmärk on vastane tappa valides sobiva liigutuse.
