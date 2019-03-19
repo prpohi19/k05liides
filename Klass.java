@@ -10,7 +10,8 @@ public class Klass implements Liides {
     }
 
     public void mituSisendit(int arv1, int arv2) {
-        System.out.println("See meetod liidab arve! " + arv1 + "+" + arv2 + "=" + arv1 + arv2);
+        int arvud = arv1 + arv2;
+        System.out.println("See meetod liidab arve! " + arv1 + "+" + arv2 + "=" + arvud);
     }
 
     public void mituSisendit(String tekst1, String tekst2) {
