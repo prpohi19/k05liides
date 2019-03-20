@@ -10,3 +10,8 @@ public class Proov {
         System.out.println("Keskmine hinne on "  + keskmine.arvuta(tekstiLugeja.loeArvud(), tekstiLugeja2.loeArvud()));
     }
 }
+/* TULEMUS
+Hinded on [4.0, 3.0, 5.0]
+EAPd on [3.0, 4.0, 6.0]
+Keskmine hinne on 4.153846153846154
+*/
