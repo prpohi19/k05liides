@@ -1,5 +1,4 @@
 class Naarik implements Koletis{
-  public int HP = 0;
   public Naarik(){
     HP = 150;
   }
