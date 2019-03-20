@@ -4,7 +4,7 @@ class Neptune implements Planet {
 		/* Used in subclass */
 	}
 	public void timeToTravelToEarth(){
-	int timeHours = (int) (distance / ((299792 * 60) *60)); /* km/s /m /t */
+	int timeHours = (int) (distance / ((299792 * 60) * 60)); /* km/s /m /t */
 	System.out.println("Sõit Neptunist Maale valguse kiirusega võtab " + timeHours + " tundi.");  
 	}
 }
